@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-07-19T17:13:29.440382021</meta:creation-date><dc:date>2016-07-19T18:08:06.553434464</dc:date><meta:editing-duration>PT21M36S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="49" meta:word-count="216" meta:character-count="980" meta:non-whitespace-character-count="821"/></office:meta>
+ <office:meta><meta:creation-date>2016-07-19T17:13:29.440382021</meta:creation-date><dc:date>2016-07-19T19:31:05.076891038</dc:date><meta:editing-duration>PT34M48S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="53" meta:word-count="1016" meta:character-count="5035" meta:non-whitespace-character-count="4071"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">18415</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">35560</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32625</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">17597</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">22906</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">33814</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">20018</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">41942</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">18415</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">35560</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32623</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">36010</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">53155</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">436644</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">752805</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -164,8 +164,16 @@
    <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
   </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.2354in" fo:margin-right="0in" fo:text-indent="-0.2354in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
   </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" style:num-format="">
@@ -220,7 +228,7 @@
    </text:outline-level-style>
   </text:outline-style>
   <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
-  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
  <office:automatic-styles>
@@ -262,8 +270,34 @@
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
    <style:text-properties officeooo:rsid="0006a9a4" officeooo:paragraph-rsid="0006a9a4"/>
   </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="00089688" officeooo:paragraph-rsid="00089688"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000a6c92" officeooo:paragraph-rsid="000a6c92"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Endnote">
+   <style:text-properties officeooo:rsid="000864c2" officeooo:paragraph-rsid="000864c2"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000770ea"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:text-position="0% 100%" officeooo:rsid="000770ea"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="000864c2"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="000a6c92"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="000b7ca5"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
@@ -324,9 +358,17 @@
    <style:header-style/>
    <style:footer-style/>
   </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="rl-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:line-style="solid" style:adjustment="right" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm2"/>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -347,6 +389,15 @@
      <text:p text:style-name="P9">معرفی </text:p>
     </text:list-item>
     <text:list-item>
+     <text:p text:style-name="P10">سخن نویسنده </text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P10">این مقاله بعد از <text:span text:style-name="T4">نزدیک دو ماه </text:span><text:s/>از بررسی و مطالعه من در زمینه Big Data منتشر شده است. دنیای بزرگی که <text:span text:style-name="T2">مهمتر از </text:span>حجم <text:span text:style-name="T2">عظیم </text:span><text:s/>اطلاعات تولید <text:span text:style-name="T2">شده، ابزارهای ذخیره‌سازی و پردازشی هستند. </text:span><text:s/>ابزارهایی که به راحتی می‌توا<text:span text:style-name="T2">ن</text:span>ند برای هر فردی که مهارت و تجربه کافی <text:span text:style-name="T2">در استفاده ازآنها را <text:s/></text:span>کسب کند به عنوان رزومه‌ای ارزشمند محسوب شو<text:span text:style-name="T2">د. همچون اغلب حیطه‌ها <text:s/>نرم‌افزارهای آزاد و متن‌باز جایگاه ویژه‌ای را به خود اختصاص داده‌اند، جایگاهی که حتی‌ می‌توان به راحتی گفت در انحصار نرم‌افزارهای آزاد و متن‌باز است.شروع فعالیت من بر روی مفاهیم Big Data بر روی حیطه real-time Stream Processing بود مطالعه‌ای بر روی Storm و Heron انجام دادم . Storm که موتور Stream processing توییتر در گذشته بود و جای خود را به ابزاری توسعه داده شده توسط خود توییتر به نام Heron داد. دلایل این رویکرد در مقاله‌ای با همین عنوان در </text:span><text:span text:style-name="T3">ACM</text:span><text:span text:style-name="T3"><text:note text:id="ftn0" text:note-class="endnote"><text:note-citation>i</text:note-citation><text:note-body>
+           <text:p text:style-name="P13">Link to heron article </text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> وجود دارد. هرچند که Heron و Storm به عنوان ابزارهای ایده‌آلی برای Stream Processing استفاده می‌شوند اما هر دو آن‌ها محتاج به ابزار دیگری به نام Kafka بودند که Stream مورد نظر را برای آن‌ها فراهم کند ابزاری قدرتمند که نه تنها وظیفه خود را به خوبی انجام می‌داد بلکه هم‌ اکنون پا را از آن هم فراتر گذاشته و قصد دارد که سرزمین Heron و Storm در زمینه Stream Processing را نیز فتح کند. همین پیشرفت و قدرت کافکا یکی از عوامل مهمی بود که <text:s/>تیم شرکت <text:s/>ما به عنوان گزینه‌ی اصلی برای Correlation کافکا را در مرکز تحقیقات و توسعه خود قرار داد. در این مقاله دوست دارم خلاصه‌ای از تجربیات را در استفاده از ابزار به علاقه‌مندان ارائه کنم تنها نکته‌ای که مهم است این است که به این مقاله به عنوان یک مرور بسیار سطحی نگاه کنید و نه یک راه‌حل برای یادگیری. </text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
      <text:p text:style-name="P9">فهرست </text:p>
     </text:list-item>
     <text:list-item>
@@ -356,13 +407,15 @@
        <text:p text:style-name="P5">دنیای امروز</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P6">داده‌های حجیم </text:p>
+         <text:p text:style-name="P11">خوب می‌دانیم هر روز داده‌های زیادی ایجاد می‌شود که می‌توان با پردازش و بررسی آن‌ها به دانش بشری کمک کرد، داده‌هایی که شاید مرور و مطالعه آن‌ها نشدنی باشد، داده‌هایی که آنقدر عظیم که حتی تصور خواندنشان توسط انسان هم دور از ذهن است. این همه داده به واسطه وجود ابزاری به نام کامپیوتر ایجاد می‌شود و از آنجایی که تولید این داده‌ها توسط کامپیوتر صورت می‌گیرد پس بهتر است خواندن آنرا نیز به خود او واگذار کنیم. اما خواندن تنها ثمره‌ای را به همراه خواهد داشت، مطمئناً خیر و نیاز است که این داده‌ها پردازش شده داده‌کاوی شده و تبدیل به دانش شوند. دانشی که اکسیر و پله نهایی ما از Big Data است. بیایید از زاویه‌ای دیگری به مسأله نگاه کنیم . فرض کنید می‌توانستیم که روزانه میزان کالُری دریافتی و مصرفی هر فردی در دنیا را از بدو تولد ذخیره نماییم . داده‌ای که در هر دقیقه از هر فرد ایجاد می‌شود. ۷ میلیارد <text:s/>نفر فرد زنده در جهان هر دقیه یک Integer 2 با طول ۲ بایت به ازای هر فرد مساوی می‌شود با 7,000,000,000 * 2 نتیجه <text:span text:style-name="T5">مساوی است با تقریباً ۱۴ ترابایت داده در هر دقیقه. سؤال اینجاست که این همه ذخیره سازی اطلاعات چه استفاده‌ای دارد ؟ لزوماً هیچ اما اگر داده‌های دیگری مثل غذای مصرفی ، مرگ و میر و یا سلامت را به آن اضافه کنیم می‌توان گفت که داده‌ی بسیار مفیدی داریم که می‌توانیم از آن به عنوان راه‌حلی برای مقابله با چاقی مقابله با انواع بیماری و یا افزایش طول عمر استفاده کنیم و این همان کاری است که Big Data انجام می‌دهد.</text:span></text:p>
         </text:list-item>
         <text:list-item>
          <text:p text:style-name="P6">هوشمندی </text:p>
-        </text:list-item>
-        <text:list-item>
-         <text:p text:style-name="P6">پردازنده‌های قوی‌تر </text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P12">برای اینکه تصور بهتری از هوشمندی در Big Data داشته باشید بگذارید همان مثال قبل را دوباره بررسی کنیم. داده‌های عظیمی از میزان کالُری دریافتی و <text:soft-page-break/>مصرفی،مرگ و میر و سلامت نسبی. قصد داریم از این‌ اطلاعات دانش استخراج نماییم استخراج دانش و تولید علم کار پیچیده‌ای نیست نگاهی به اطرافتان بندازید ما از ابتدای شکل‌گیری انسان دانش تولید کرده‌ایم به دنبال الگو‌ها و تکرارها گشته‌ایم و بر اساس آن دانش تولید کرده‌ایم حرکت خورشید را چند شبانه‌روز دیده‌ایم و آن را به صورت قانونی درآورده‌ایم که به واسطه آن شب و روز به وجود می‌آمد به همین سادگی . خوب برای اینکه بخواهیم داده‌های ذخیره شده را به دانش تبدیل کنیم به دنیال چنین الگوهایی می‌گردیم . دنبال <text:span text:style-name="T6">کاهش سلامت و یا افزایش </text:span>مرگ و میر <text:span text:style-name="T6">در بین افرادی که کالُری مصرفیشان از کالُری دریافتی بیشتر است. این هوشمندی از طریق پردازش و داده‌کاوی توسط کامپیوتر ایجاد می‌شود. کامپیوتر‌هایی که هر روز قویتر و قویتر شده و ارتباطشان با یکدیگر سوپر کامپیوتر‌ها و دیتاسنتر‌ها را می‌سازند که می‌توانند داده‌هایی بسیار حجیم‌ را در کسری از ثانیه پردازش نمایند. حتی پردازش‌هایی که به صورت کلاستر شده صورت می‌گیرد مجموعه‌ای از کامپیوتر‌های با توان پردازشی متوسط و پایین که با یکدیگر پردازش‌های بزرگی را انجام می‌دهند. کلاسترینگ می‌توان خود را مدیون ارتباطات و شبکه‌های ارتباطی بداند که با سرعت گرفتن شبکه‌ها راه را برای قویتر کردن <text:s/></text:span></text:p>
+          </text:list-item>
+         </text:list>
         </text:list-item>
         <text:list-item>
          <text:p text:style-name="P6">ارتباطات قویتر </text:p>
@@ -470,16 +523,21 @@
        <text:p text:style-name="P9">نتیجه رو بررسی کنید. </text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P9">یک مثال می‌تونید از کدهای من ببینید </text:p>
+       <text:p text:style-name="P9"><text:soft-page-break/>یک مثال می‌تونید از کدهای من ببینید </text:p>
       </text:list-item>
       <text:list-item>
        <text:p text:style-name="P10">جمع‌بندی کافکا </text:p>
        <text:list>
         <text:list-item>
          <text:p text:style-name="P10">بیشتر می‌خواید یاد بگیرید می‌تونید از سایت خود کافکا مواردی را بررسی کنید. </text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P10">لینک‌های مفید رو بزارم و اینکه چی هست و چگونه می‌تونند باهاش کار کنند </text:p>
+          </text:list-item>
+         </text:list>
         </text:list-item>
         <text:list-item>
-         <text:p text:style-name="P10"><text:soft-page-break/>این‌ها همه توضیحاتی بود تا به کافکا برسیم. </text:p>
+         <text:p text:style-name="P10">این‌ها همه توضیحاتی بود تا به کافکا برسیم. </text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
