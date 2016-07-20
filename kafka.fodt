@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2016-07-19T17:13:29.440382021</meta:creation-date><dc:date>2016-07-20T19:40:41.906433389</dc:date><meta:editing-duration>PT13H28M18S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="57" meta:word-count="1366" meta:character-count="6831" meta:non-whitespace-character-count="5518"/></office:meta>
+ <office:meta><meta:creation-date>2016-07-19T17:13:29.440382021</meta:creation-date><dc:date>2016-07-20T20:01:02.373059666</dc:date><meta:editing-duration>PT13H34M57S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="57" meta:word-count="1473" meta:character-count="7395" meta:non-whitespace-character-count="5976"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">56402</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">59473</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">29660</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">15997</config:config-item>
@@ -13,12 +13,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16674</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">63412</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">10340</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">66474</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">56402</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">59473</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">29658</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">72397</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">75468</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1026865</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1072092</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -482,7 +482,7 @@
    </text:list>
    <text:p text:style-name="P12"/>
    <text:p text:style-name="P12"/>
-   <text:list xml:id="list194044173392488" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list200104151982842" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
      <text:list>
       <text:list-item>
@@ -538,7 +538,7 @@
        <text:p text:style-name="P24">ابتدای شروع به کار با Zookeeper هیجان زیادی داشتم و دوست داشتم بیشتر و بیشتر در مورد <text:span text:style-name="T8">کارایی و API و … </text:span><text:s/>اطلاعات کسب کنم و برای آدم عجولی مثل من دو سه روزی زما<text:span text:style-name="T8">ن زیادی بود تا بتونم فلسفه وجودی Zookeeper رو درک کنم. اگه بخوایم خیلی خلاصه Zookeeper رو تعریف کنیم باید گفت Zookeeper Server از طریق ensemble به هماهنگ‌سازی داده‌های بحرانی برنامه‌ها می‌پردازد</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P24"><text:span text:style-name="T8"><text:s text:c="2"/>یک مقدار پیچیده‌ است پس بگذارید با یک مثال بیشتر مطلب رو روشن کنیم که چه وظایفی را می‌توان به Zookeeper سپرد. فرض کنید که چندین وب سرور داریدکه بر روی چند ماشین متفاوت قرار دارند هر کدام از این وب‌سرورها پیکربندی‌ای <text:s/>دارند که امکان </text:span><text:soft-page-break/><text:span text:style-name="T8">دارد هر لحظه نیاز باشد توسط مدیر سیستم‌ تغییر کند راه‌ ساده آن این است که در هر بار تغییر این پیکربندی‌ها از این <text:s/></text:span></text:p>
+       <text:p text:style-name="P24"><text:span text:style-name="T8"><text:s text:c="2"/>یک مقدار پیچیده‌ است پس بگذارید با یک مثال بیشتر مطلب رو روشن کنیم که چه وظایفی را می‌توان به Zookeeper سپرد. فرض کنید که یک برنامه نوشته‌اید که وظیفه خواندن اطلاعات صفحات وب و ذخیره‌سازی آن‌ها را در پایگاه‌داده دارد کاری مشابه بات‌های موتورهای جستجو. حال قصد دارید که بر روی چندین و چند سرور به صورت </text:span><text:soft-page-break/><text:span text:style-name="T8">همزمان چندین اجرا از این اپلیکیشن‌ها داشته باشید. صورت مسأله ساده است هر اپلیکیشن شروع به باز کردن صفحات از طریق لینک‌های درون صفحات می‌کند و محتوا را در پایگاه داده ذخیره‌ می‌نماید اما دو نکته بسیار مهم است و اینکه برنامه‌ها نباید لینک‌های تکراری باز کنند. لود کردن و خواندن محتوا اگر توسط یک برنامه صورت می‌گرفت شاید کار ساده‌ای بود اما در نظر بگیرید که ما ده‌ها اجرا از برنامه را در ماشین‌های مختلف داریم. اینجاست که Zookeeper به کمک می‌آید هر برنامه کافیست که URL خوانده شده را در Zookeeper <text:s/>بنویسد و قبل از خواندن هر صفحه در Zookeeper کنترل کند که URL قبلاً در Zookeeper توسط یک اجرای دیگر از برنامه نوشته نشده باشد. </text:span></text:p>
       </text:list-item>
       <text:list-item>
        <text:p text:style-name="P24"><text:span text:style-name="T8">.Zookeeper برای ذخیره‌سازی داده‌های حجیم مناسب نیست و گزینه‌های بهتری برای این‌کار وجود دارند.</text:span></text:p>
