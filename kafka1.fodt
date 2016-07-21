@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2016-07-19T17:13:29.440382021</meta:creation-date><dc:date>2016-07-21T14:35:47.527428148</dc:date><meta:editing-duration>PT13H35M12S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/5.0.5.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="5" meta:paragraph-count="63" meta:word-count="1628" meta:character-count="8162" meta:non-whitespace-character-count="6593"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">73152</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">31150</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">11788</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">14633</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">80851</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">73152</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">31149</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">84938</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">110</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1193371</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">121147</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC Regular" svg:font-family="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties fo:text-align="end" style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="fa" style:country-complex="IR"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC Regular" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="fa" style:country-complex="IR" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC Regular" style:font-family-asian="&apos;Noto Sans CJK SC Regular&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="120%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.2354in" fo:margin-right="0in" fo:text-indent="-0.2354in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.3465in" style:type="center"/>
+     <style:tab-stop style:position="6.6929in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.3in" fo:text-indent="-0.3in" fo:margin-left="0.3in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.4in" fo:text-indent="-0.4in" fo:margin-left="0.4in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.5in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.6in" fo:text-indent="-0.6in" fo:margin-left="0.6in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.7in" fo:text-indent="-0.7in" fo:margin-left="0.7in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.8in" fo:text-indent="-0.8in" fo:margin-left="0.8in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.9in" fo:text-indent="-0.9in" fo:margin-left="0.9in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-1in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.1in" fo:text-indent="-1.1in" fo:margin-left="1.1in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.2in" fo:text-indent="-1.2in" fo:margin-left="1.2in"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0001d93b" officeooo:paragraph-rsid="0001d93b"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.4925in" fo:margin-right="0in" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0001f870" officeooo:paragraph-rsid="0001f870"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="0001d93b"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0001d93b" officeooo:paragraph-rsid="0001d93b"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0001f870" officeooo:paragraph-rsid="0001f870"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000264ff" officeooo:paragraph-rsid="000264ff"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="00064666" officeooo:paragraph-rsid="00064666"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0006a9a4" officeooo:paragraph-rsid="0006a9a4"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="00089688" officeooo:paragraph-rsid="00089688"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000a6c92" officeooo:paragraph-rsid="000a6c92"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000b7ca5" officeooo:paragraph-rsid="000b7ca5"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000edb80" officeooo:paragraph-rsid="000ee5cd"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Endnote">
+   <style:text-properties officeooo:rsid="000864c2" officeooo:paragraph-rsid="000864c2"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="00064666" officeooo:paragraph-rsid="00064666"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0006a9a4" officeooo:paragraph-rsid="0006a9a4"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:paragraph-rsid="0001d93b"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="00089688" officeooo:paragraph-rsid="00089688"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0001d93b" officeooo:paragraph-rsid="0001d93b"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000a6c92" officeooo:paragraph-rsid="000a6c92"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000b7ca5" officeooo:paragraph-rsid="000b7ca5"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="0001f870" officeooo:paragraph-rsid="0001f870"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000edb80" officeooo:paragraph-rsid="000ee5cd"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000ee5cd" officeooo:paragraph-rsid="000ee5cd"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="000264ff" officeooo:paragraph-rsid="000264ff"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false" style:writing-mode="rl-tb"/>
+   <style:text-properties officeooo:rsid="001157e9" officeooo:paragraph-rsid="001157e9"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000770ea"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:text-position="0% 100%" officeooo:rsid="000770ea"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="000864c2"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="000a6c92"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="000b7ca5"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="000cb482"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="000ee5cd"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment" fo:text-align="end">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="rl-tb" style:footnote-max-height="0in">
+    <style:footnote-sep style:line-style="solid" style:adjustment="right" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm2"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P1"><text:span text:style-name="T1">Zookeeper kafka</text:span> </text:p>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P2"/>
+   <text:p text:style-name="P3">یک‌سری از موارد تنها برای اسلاید آماده شوند و در مقاله اصلی قرار نگیرند . </text:p>
+   <text:p text:style-name="P2"/>
+   <text:list xml:id="list8840622531215498208" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P16">معرفی </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P17">سخن نویسنده </text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">این مقاله بعد از <text:span text:style-name="T4">نزدیک دو ماه </text:span><text:s/>از بررسی و مطالعه من در زمینه Big Data منتشر شده است. دنیای بزرگی که <text:span text:style-name="T2">مهمتر از </text:span>حجم <text:span text:style-name="T2">عظیم </text:span><text:s/>اطلاعات تولید <text:span text:style-name="T2">شده، ابزارهای ذخیره‌سازی و پردازشی هستند. </text:span><text:s/>ابزارهایی که به راحتی می‌توا<text:span text:style-name="T2">ن</text:span>ند برای هر فردی که مهارت و تجربه کافی <text:span text:style-name="T2">در استفاده ازآنها را <text:s/></text:span>کسب کند به عنوان رزومه‌ای ارزشمند محسوب شو<text:span text:style-name="T2">د. همچون اغلب حیطه‌ها <text:s/>نرم‌افزارهای آزاد و متن‌باز جایگاه ویژه‌ای را به خود اختصاص داده‌اند، جایگاهی که حتی‌ می‌توان به راحتی گفت در انحصار نرم‌افزارهای آزاد و متن‌باز است.شروع فعالیت من بر روی مفاهیم Big Data بر روی حیطه real-time Stream Processing بود مطالعه‌ای بر روی Storm و Heron انجام دادم . Storm که موتور Stream processing توییتر در گذشته بود و جای خود را به ابزاری توسعه داده شده توسط خود توییتر به نام Heron داد. دلایل این رویکرد در مقاله‌ای با همین عنوان در </text:span><text:span text:style-name="T3">ACM</text:span><text:span text:style-name="T3"><text:note text:id="ftn1" text:note-class="endnote"><text:note-citation>i</text:note-citation><text:note-body>
+           <text:p text:style-name="P15">Link to heron article </text:p></text:note-body></text:note></text:span><text:span text:style-name="T2"> وجود دارد. هرچند که Heron و Storm به عنوان ابزارهای ایده‌آلی برای Stream Processing استفاده می‌شوند اما هر دو آن‌ها محتاج به ابزار دیگری به نام Kafka بودند که Stream مورد نظر را برای آن‌ها فراهم کند ابزاری قدرتمند که نه تنها وظیفه خود را به خوبی انجام می‌داد بلکه هم‌ اکنون پا را از آن هم فراتر گذاشته و قصد دارد که سرزمین Heron و Storm در زمینه Stream Processing را نیز فتح کند. همین پیشرفت و قدرت کافکا یکی از عوامل مهمی بود که <text:s/>تیم شرکت <text:s/>ما به عنوان گزینه‌ی اصلی برای Correlation کافکا را در مرکز تحقیقات و توسعه خود قرار داد. در این مقاله دوست دارم خلاصه‌ای از تجربیات را در استفاده از ابزار به علاقه‌مندان ارائه کنم تنها نکته‌ای که مهم است این است که به این مقاله به عنوان یک مرور بسیار سطحی نگاه کنید و نه یک راه‌حل برای یادگیری. </text:span></text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P16">فهرست </text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P18">مقدمه </text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P18">دنیای امروز</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P19">خوب می‌دانیم هر روز داده‌های زیادی ایجاد می‌شود که می‌توان با پردازش و بررسی آن‌ها به دانش بشری کمک کرد، داده‌هایی که شاید مرور و مطالعه آن‌ها نشدنی باشد، داده‌هایی که آنقدر عظیم که حتی تصور خواندنشان توسط انسان هم دور از ذهن است. این همه داده به واسطه وجود ابزاری به نام کامپیوتر ایجاد می‌شود و از آنجایی که تولید این داده‌ها توسط کامپیوتر صورت می‌گیرد پس بهتر است خواندن آنرا نیز به خود او واگذار کنیم. اما خواندن تنها ثمره‌ای را به همراه خواهد داشت، مطمئناً خیر و نیاز است که این داده‌ها پردازش شده داده‌کاوی شده و تبدیل به دانش شوند. دانشی که اکسیر و پله نهایی ما از Big Data است. بیایید از زاویه‌ای دیگری به مسأله نگاه کنیم . فرض کنید می‌توانستیم که روزانه میزان کالُری دریافتی و مصرفی هر فردی در دنیا را از بدو تولد ذخیره نماییم . داده‌ای که در هر دقیقه از هر فرد ایجاد می‌شود. ۷ میلیارد <text:s/>نفر فرد زنده در جهان هر دقیه یک Integer 2 با طول ۲ بایت به ازای هر فرد مساوی می‌شود با 7,000,000,000 * 2 نتیجه <text:span text:style-name="T5">مساوی است با تقریباً ۱۴ ترابایت داده در هر دقیقه. سؤال اینجاست که این همه ذخیره سازی اطلاعات چه استفاده‌ای دارد ؟ لزوماً هیچ اما اگر داده‌های دیگری مثل غذای مصرفی ، مرگ و میر و یا سلامت را به آن اضافه کنیم می‌توان گفت که داده‌ی بسیار مفیدی داریم که می‌توانیم از آن به عنوان راه‌حلی برای مقابله با چاقی مقابله با انواع بیماری و یا افزایش طول عمر استفاده کنیم و این همان کاری است که Big Data انجام می‌دهد.</text:span></text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P20">هوشمندی </text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P21">برای اینکه تصور بهتری از هوشمندی در Big Data داشته باشید بگذارید همان مثال قبل را دوباره بررسی کنیم. داده‌های عظیمی از میزان کالُری دریافتی و <text:soft-page-break/>مصرفی،مرگ و میر و سلامت نسبی. قصد داریم از این‌ اطلاعات دانش استخراج نماییم استخراج دانش و تولید علم کار پیچیده‌ای نیست نگاهی به اطرافتان بندازید ما از ابتدای شکل‌گیری انسان دانش تولید کرده‌ایم به دنبال الگو‌ها و تکرارها گشته‌ایم و بر اساس آن دانش تولید کرده‌ایم حرکت خورشید را چند شبانه‌روز دیده‌ایم و آن را به صورت قانونی درآورده‌ایم که به واسطه آن شب و روز به وجود می‌آمد به همین سادگی . خوب برای اینکه بخواهیم داده‌های ذخیره شده را به دانش تبدیل کنیم به دنیال چنین الگوهایی می‌گردیم . دنبال <text:span text:style-name="T6">کاهش سلامت و یا افزایش </text:span>مرگ و میر <text:span text:style-name="T6">در بین افرادی که کالُری مصرفیشان از کالُری دریافتی بیشتر است. این هوشمندی از طریق پردازش و داده‌کاوی توسط کامپیوتر ایجاد می‌شود. کامپیوتر‌هایی که هر روز قویتر و قویتر شده و ارتباطشان با یکدیگر سوپر کامپیوتر‌ها و دیتاسنتر‌ها را می‌سازند که می‌توانند داده‌هایی بسیار حجیم‌ را در کسری از ثانیه پردازش نمایند. حتی پردازش‌هایی که به صورت کلاستر شده صورت می‌گیرد مجموعه‌ای از کامپیوتر‌های با توان پردازشی متوسط و پایین که با یکدیگر پردازش‌های بزرگی را انجام می‌دهند. کلاسترینگ می‌توان خود را مدیون ارتباطات و شبکه‌های ارتباطی بداند که با سرعت گرفتن شبکه‌ها راه را برای پردازش‌های سریعتر باز کرده است. در ادامه باید گفت که Big Data نیز خود را <text:s/>باید مدیون سیستم‌ها توزیع شده و سرعت گرفتن ارتباطات شبکه بداند. بگذارید نگاهی بندازیم به اینکه در مدت نیم ساعت آینده چه اتفاقاتی می‌افتد اطلاعاتی که هیچ کدام بی‌ربط به مسأله Big Data و پردازش داده‌های بزرگ نیست. </text:span></text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:list xml:id="list143548346587554" text:continue-numbering="true" text:style-name="L1">
+    <text:list-item>
+     <text:list>
+      <text:list-item>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P20">توی مدتی که دارید ارائه من رو می‌شنوید</text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P20">مرگ و میر </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P20">تولد </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P20">توییتر </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P20">فیس‌بوک </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P20">سرچ </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P20">بنزین</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P22">تا اینجا در دنیال امروز زندگی کردیم بگذارید به دنیای فردا هم سری بزنیم. دنیایی که شاید جای بهتری باشد جایی که داده‌های بیشتری تولید پردازش و دانش‌ بسیار سریعتر رشد می‌کند. آنقدر سریع که جا ماندن از دانش و کهنه شدن علم هر شخص در صورت به روز نشدن بسیار سریعتر رخ می‌دهد. نگاهی به ۱۰۰ سال آینده می‌اندازیم پردازنده‌های بسیار سریعتر شبکه‌های بسیار سریعتر که با قدرت پردازنده‌های فعلی ما برابری می‌کند. و داده‌هایی به مراتب بیشتر و عظیم تر فضای ذخیره‌سازی ارزان‌تر و … </text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P18">دنیای فردا </text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P20">IOT تعدادش </text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P20">نیاز به پردازش‌های بیشتر </text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P20">شاید هم دنیای کامپیوتر‌های نورون بیس </text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P23">Zookeeper </text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P24">ابتدای شروع به کار با Zookeeper هیجان زیادی داشتم و دوست داشتم بیشتر و بیشتر در مورد <text:span text:style-name="T8">کارایی و API و … </text:span><text:s/>اطلاعات کسب کنم و برای آدم عجولی مثل من دو سه روزی زما<text:span text:style-name="T8">ن زیادی بود تا بتونم فلسفه وجودی Zookeeper رو درک کنم. اگه بخوایم خیلی خلاصه Zookeeper رو تعریف کنیم باید گفت Zookeeper Server از طریق ensemble به هماهنگ‌سازی داده‌های بحرانی برنامه‌ها می‌پردازد</text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24"><text:span text:style-name="T8"><text:s text:c="2"/>یک مقدار پیچیده‌ است پس بگذارید با یک مثال بیشتر مطلب رو روشن کنیم که چه وظایفی را می‌توان به Zookeeper سپرد. فرض کنید که یک برنامه نوشته‌اید که وظیفه خواندن اطلاعات صفحات وب و ذخیره‌سازی آن‌ها را در پایگاه‌داده دارد کاری مشابه بات‌های موتورهای جستجو. حال قصد دارید که بر روی چندین و چند سرور به صورت </text:span><text:soft-page-break/><text:span text:style-name="T8">همزمان چندین اجرا از این اپلیکیشن‌ها داشته باشید. صورت مسأله ساده است هر اپلیکیشن شروع به باز کردن صفحات از طریق لینک‌های درون صفحات می‌کند و محتوا را در پایگاه داده ذخیره‌ می‌نماید اما دو نکته بسیار مهم است و اینکه برنامه‌ها نباید لینک‌های تکراری باز کنند. لود کردن و خواندن محتوا اگر توسط یک برنامه صورت می‌گرفت شاید کار ساده‌ای بود اما در نظر بگیرید که ما ده‌ها اجرا از برنامه را در ماشین‌های مختلف داریم. اینجاست که Zookeeper به کمک می‌آید هر برنامه کافیست که URL خوانده شده را در Zookeeper <text:s/>بنویسد و قبل از خواندن هر صفحه در Zookeeper کنترل کند که URL قبلاً در Zookeeper توسط یک اجرای دیگر از برنامه نوشته نشده باشد. </text:span></text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P25">.Zookeeper برای ذخیره‌سازی داده‌های حجیم مناسب نیست و گزینه‌های بهتری برای این‌کار وجود دارند.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P24"><text:s/>خارج از همه مزیت‌ها و طراحی ساده و دوست‌داشتنی Zookeeper فقط اسم طولانی و خسته کنندش اذیتم کرد هر جا که می‌خواستم اسمش رو بنویسم و یا بگم کلمه Zookeeper برام طولانی بود و کم‌کم Zook جای خودش رو به Zookeeper داد شما هم اگه مثل من و باقی توسعه‌دهنده‌ها تنبل هستید، می‌تونید توی جمعی که باهاش آشنا هستند Zook صداش کنید. </text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P23">تصور باغ وحش </text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P16">چی شد که به وجود آمد</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P16">از کجا شروع شد. </text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P16">الان کجا است . </text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P23">چند‌تا UseCase تعریف می‌کنیم براش</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P23">اینکه باید همیشه Accessible باشند</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P27">مورد قبلی تنها یکی از موارد استفاده از Zookeeper بود، یک مثال ساده برای اینکه درک اولیه از Zookeeper پیدا کنید.ولی استفاده از Zookeeper برای سیستم‌های توزیع شده‌ای است که به Master-Worker معروفند. فرض بگیرید که شما یک مرکز پشتیبانی تلفنی برای حل باگ‌های نرم‌افزار هستید یک شخص نقش نقش‌های زیر را به عه ه دارد </text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P27">پاسخ‌گویی تلفن: وظایف را شنیده </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P27">ذخیره‌سازی وظایف: وظایف را بر روی کاغذ یا در یک فایل می‌نویسد </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P27">واگذاری وظایف به افراد پشتیبان:‌به طوری که از افرادی که در حال حاضر آماده به کار هستند و افرادی که در حال حاضر وظیفه‌ای ندارند مطلع است در صورتی و وظایف را به آن‌ها واگذار می‌کند. </text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P27">از شرایط وظایف واگذار شده مطلع است :‌ شرایط به معنی تمام شده یا در حال انجام را می‌شناسد و در صورتی که انجام شده باشد می‌تواند وظیفه دیگری را به فرد واگذار کند.</text:p>
+          </text:list-item>
+          <text:list-item>
+           <text:p text:style-name="P27">این وظایف در زمانی واگذار می‌شود <text:s text:c="2"/></text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P23">Master-worker چیست. هیچ ربطی به Zookeeper ندارد</text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P23">property Manager </text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P23">crowler </text:p>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P23">و …</text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">چطور کار می کنه </text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">چه‌جوری پیکربندیش کنیم</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">از داکر می‌تونیم استفاده کنیم</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">چطور تحریم‌های داکر رو دور بزنیم</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">داکر رو ران کنید</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">چند zookeeper استارت کنید</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">بترکونید داکر‌ها رو </text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16">نتیجه رو بررسی کنید. </text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P16"><text:soft-page-break/>یک مثال می‌تونید از کدهای من ببینید </text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P17">جمع‌بندی</text:p>
+       <text:list>
+        <text:list-item>
+         <text:p text:style-name="P17">بیشتر می‌خواید یاد بگیرید می‌تونید از سایت خود <text:span text:style-name="T7">Zookeeper</text:span> مواردی را بررسی کنید. </text:p>
+         <text:list>
+          <text:list-item>
+           <text:p text:style-name="P17">لینک‌های مفید رو بزارم و اینکه چی هست و چگونه می‌تونند باهاش کار کنند </text:p>
+          </text:list-item>
+         </text:list>
+        </text:list-item>
+        <text:list-item>
+         <text:p text:style-name="P17">این‌ها همه توضیحاتی بود تا به کافکا برسیم. </text:p>
+        </text:list-item>
+       </text:list>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P17">Apache Kafka </text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17"/>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P26">کتاب‌هایی که توصیه می‌شود خوانده شود. </text:p>
+     <text:list>
+      <text:list-header>
+       <text:p text:style-name="P23"/>
+      </text:list-header>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P4"><text:tab/><text:tab/></text:p>
+  </office:text>
+ </office:body>
+</office:document>
